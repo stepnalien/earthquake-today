@@ -1,5 +1,5 @@
 # Your Guide to Understanding Earthquakes
-Published on October 3, 2025
+Published on October 6, 2025
 
 Welcome to Earthquake Today, your essential resource for real-time seismic information. In a world where the ground beneath our feet is constantly shifting, being informed is the first step toward safety and understanding. This guide will walk you through the features of our platform, explain the science behind earthquakes, and provide practical safety tips.
 
